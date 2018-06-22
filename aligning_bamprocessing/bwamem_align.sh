@@ -15,6 +15,7 @@ out='/ohta/julia.kreiner/waterhemp/data/realigned'
 #index fasta
 #/ohta/tyler.kent/Software/bwa-0.7.12/bwa index ${ref}/amaranth_hypo_pacbioref.fasta	
 
+
 #align
 while read sample
 
