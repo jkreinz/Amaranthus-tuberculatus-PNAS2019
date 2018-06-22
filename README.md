@@ -1,6 +1,6 @@
 # Amaranthus population genomics
 
-This repository contains a set of pipelines for various population genomic analyses related to:
+This repository contains sets of pipelines for various population genomic analyses of a diploid, dioecious plant with a reference assembly:
 
 1. [Alignment and bam processing](https://github.com/jkreinz/Amaranthus-population-genomics/tree/master/aligning_bamprocessing/) - Preprocess FASTQ's, run BWAmem, process bams with sambamba, picard to GATK
 2. [SNP calling and filtering](https://github.com/jkreinz/Amaranthus-population-genomics/tree/master/snp_calling_filtering/) - Call SNPs with freebayes and filter
