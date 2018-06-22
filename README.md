@@ -4,7 +4,7 @@ This repository contains sets of pipelines for various population genomic analys
 
 1. [Alignment and bam processing](https://github.com/jkreinz/Amaranthus-population-genomics/tree/master/aligning_bamprocessing/) - Preprocess FASTQ's, run BWAmem, process bams with sambamba, picard to GATK
 2. [SNP calling and filtering](https://github.com/jkreinz/Amaranthus-population-genomics/tree/master/snp_calling_filtering/) - Call SNPs with freebayes and filter
-3. [PLINK pipelines and related analyses](https://github.com/jkreinz/Amaranthus-population-genomics/tree/master/PLINK%20universe/) - Running PLINK, treemix, faststructure, & beagle
+3. [PLINK pipelines and related analyses](https://github.com/jkreinz/Amaranthus-population-genomics/tree/master/PLINK_universe/) - Running PLINK, treemix, faststructure, & beagle
 4. [Getting basic summary stats (Dxy, Fst, Pi, ABBA-BABA)](https://github.com/jkreinz/Amaranthus-population-genomics/tree/master/genomics_general_ABBABABA_summarystats/) - Use genomicsgeneral scripts from Simon Martin
 5. [Estimating recombination rates](https://github.com/jkreinz/Amaranthus-population-genomics/tree/master/estimate_populationRecombination/) - Use LDhat and Hapcut to estimate Rho
 5. [Detecting selective sweeps](https://github.com/jkreinz/Amaranthus-population-genomics/tree/master/sweep_analyses/) - selscan, H12, & sweepscan2
